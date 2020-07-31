@@ -13,6 +13,7 @@
 
 
 <p>PUBG war</p>
+<p>Testing on 2 tomcat instances</p>
 
 
 
